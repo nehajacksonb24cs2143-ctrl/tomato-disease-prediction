@@ -1,7 +1,18 @@
+# Virtual environment
 venv/
+
+# Dataset
 data/
+
+# Generated features
 features/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# VS Code
 .vscode/
+
+# Jupyter
 .ipynb_checkpoints/
